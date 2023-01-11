@@ -1,0 +1,3 @@
+P-valor:
+    68% das observações estarão até a 1 desvio padrão da média
+    O p-valor
